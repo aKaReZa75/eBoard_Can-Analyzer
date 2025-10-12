@@ -56,7 +56,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=0
@@ -83,17 +83,34 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNMJTBSW
 
+[Document3]
+DocumentPath=CAN Analyzer.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RSVNSDDZ
+
 [Parameter1]
-Name=Revision
-Value=1.0
+Name=CompanyName
+Value=github.com/aKaReZa75
 
 [Parameter2]
 Name=Project_Name
 Value=Can Analyzer
 
 [Parameter3]
-Name=CompanyName
-Value=github.com/aKaReZa75
+Name=Revision
+Value=1.0
 
 [Configuration1]
 Name=Sources
