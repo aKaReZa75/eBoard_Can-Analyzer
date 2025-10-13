@@ -3,12 +3,9 @@ This section provides a comprehensive list of components required for the "Relay
 Each item includes direct purchase links from reliable Iranian electronics suppliers, with recommended quantities for both essential needs and future prototyping.
 
 ## Capacitor
-### 0805
 - [ ] [**Cap_0805 47p**](https://lionelectronic.ir/products/1952-0805CG470J500NT) Quantity: 4, Prefer: 25, Supplier: LionElectronic
 - [ ] [**Cap_0805_100n**](https://lionelectronic.ir/products/2791-CL21B104KBCNNNC) Quantity: 8, Prefer: 25, Supplier: LionElectronic
 - [ ] [**Cap_0805_10u**](https://lionelectronic.ir/products/3069-C2012X5R1H106K125AC) Quantity: 8, Prefer: 25, Supplier: LionElectronic
-
-### Tantalum
 - [ ] [**Cap_Tantal_4.7u_6.3V_P**](https://lionelectronic.ir/products/2725-T55P475M6R3C0500) Quantity: 1, Prefer: 10, Supplier: LionElectronic 
 - [ ] [**Cap_Tantal_10u_10V_A**](https://lionelectronic.ir/products/2046-TAJA106K010RNJ) Quantity: 3, Prefer: 10, Supplier: LionElectronic **(Instead of: Cap_Tantal_10u_6.3V_A)**
 
@@ -19,13 +16,10 @@ Each item includes direct purchase links from reliable Iranian electronics suppl
 - [ ] [**Con_Phonix_2Pin**](https://lionelectronic.ir/products/6049-KF2EDGR%2BK-5.08-2P) Quantity: 2, Prefer: 5, Supplier: LionElectronic
 - [ ] [**USB_Type_C_16_2**](https://lionelectronic.ir/products/4117-TYPE-C-16P-QTWT) Quantity: 1, Prefer: 4, Supplier: LionElectronic
 
-
 ## Integrated Circuit
-### MicroController
 - [ ] [**IC_STM32G431C8T6**](https://lionelectronic.ir/products/2774-STM32G431C8T6) Quantity: 1, Prefer: 3, Supplier: LionElectronic  
 - [ ] [**Reg_TLV74333PDBVR**](https://lionelectronic.ir/products/2492-TLV74333PDBVR) Quantity: 1, Prefer: 3, Supplier: LionElectronic
 - [ ] [**IC_TJA1051T/3,118**](https://lionelectronic.ir/products/5827-TJA1051T-3%2C118) Quantity: 1, Prefer: 5, Supplier: LionElectronic
-
 
 ## Other
 - [ ] [**DLW31SN900SQ2L**](https://lionelectronic.ir/products/1500-DLW31SN900SQ2L) Quantity: 2, Prefer: 5, Supplier: LionElectronic
