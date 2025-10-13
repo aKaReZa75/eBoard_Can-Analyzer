@@ -83,6 +83,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNMJTBSW
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for CAN Analyzer\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=CompanyName
 Value=github.com/aKaReZa75

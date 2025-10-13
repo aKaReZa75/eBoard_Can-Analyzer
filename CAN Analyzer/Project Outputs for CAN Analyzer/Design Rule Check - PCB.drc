@@ -1,0 +1,96 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Hossein-KUT\Documents\GitHub\eBoard_Can-Analyzer\CAN Analyzer\PCB.PcbDoc
+Date     : 10/13/2025
+Time     : 10:02:03 AM
+
+WARNING: Unplated multi-layer pad(s) detected
+   Pad J1-(6.301mm,7.036mm) on Multi-Layer on Net NetF3_1
+   Pad J1-(6.301mm,12.816mm) on Multi-Layer on Net NetF3_1
+
+Processing Rule : Clearance Constraint (Gap=0.25mm) (All),(InPolygon)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=10mm) (Preferred=0.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=0.4mm) (MaxHoleWidth=3mm) (PreferredHoleWidth=0.4mm) (MinWidth=0.7mm) (MaxWidth=6mm) (PreferedWidth=0.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.254mm) (Max=0.254mm) (Prefered=0.254mm)  and Width Constraints (Min=0.381mm) (Max=0.381mm) (Prefered=0.381mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (All)
+Rule Violations :0
+
+Processing Rule : Acute Angle Constraint [Tracks Only] (Minimum=60.000) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.4mm) (Max=10mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.3mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.01mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.01mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0.254mm, Vertical Gap = 0.254mm ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Un-Routed Net Constraint ( (All) )
+   Waived Violation between Un-Routed Net Constraint: Unplated Pad J1-(6.301mm,12.816mm) on Multi-Layer Waived by  at 10/13/2025 9:54:37 AM
+   Waived Violation between Un-Routed Net Constraint: Unplated Pad J1-(6.301mm,7.036mm) on Multi-Layer Waived by  at 10/13/2025 9:54:37 AM
+Waived Violations :2
+
+Waived Violations Of Rule : Minimum Annular Ring (Minimum=0.15mm) (All)
+   Waived Violation between Minimum Annular Ring: (No Ring) Pad J1-(6.301mm,12.816mm) on Multi-Layer (Annular Ring missing on Top Layer)Waived by  at 10/13/2025 9:54:37 AM
+   Waived Violation between Minimum Annular Ring: (No Ring) Pad J1-(6.301mm,7.036mm) on Multi-Layer (Annular Ring missing on Top Layer)Waived by  at 10/13/2025 9:54:37 AM
+Waived Violations :2
+
+Waived Violations Of Rule : Acute Angle Constraint [Tracks Only] (Minimum=60.000) (All)
+   Waived Violation between Acute Angle Constraint: (45.000 < 60.000) Between Track (15.936mm,15.745mm)(18.315mm,15.745mm) on Top Layer And Track (17.189mm,14.265mm)(18.442mm,15.518mm) on Top Layer (Angle = 45.000)Waived by  at 10/13/2025 9:56:38 AM
+Waived Violations :1
+
+Waived Violations Of Rule : Silk To Solder Mask (Clearance=0.01mm) (IsPad),(All)
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.01mm) Between Pad R2-2(27.407mm,2.926mm) on Top Layer And Text "G-D-C-R" (20.606mm,0.698mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]Waived by  at 10/13/2025 9:54:37 AM
+Waived Violations :1
+
+Waived Violations Of Rule : Component Clearance Constraint ( Horizontal Gap = 0.254mm, Vertical Gap = 0.254mm ) (All),(All) 
+   Waived Violation between Component Clearance Constraint: (Collision < 0.254mm) Between Small Component D2-Green, 3'mm (39.751mm,5.969mm) on Top Layer And Small Component D4-Red, 3'mm (39.878mm,2.032mm) on Top Layer Waived by  at 10/13/2025 9:56:38 AM
+Waived Violations :1
+
+
+Violations Detected : 0
+Waived Violations : 7
+PCB Health Issues : 0
+Time Elapsed        : 00:00:02
