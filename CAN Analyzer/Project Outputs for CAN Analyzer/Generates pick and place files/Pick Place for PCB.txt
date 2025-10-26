@@ -1,0 +1,61 @@
+Altium Designer Pick and Place Locations
+C:\Users\Hossein-KUT\Documents\Camtasia\CAN Analyzer\Project Outputs for CAN Analyzer\Generates pick and place files\Pick Place for PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/10/25
+Time:       16:23
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment       Layer       Footprint                      Center-X(mm) Center-Y(mm) Rotation Description                                                                                                                  
+R16        10K           TopLayer    RES_0805_(2012X06L)            32.1174      2.9210       0        Resistor                                                                                                                     
+R15        47K           BottomLayer RES_0805_(2012X06L)            29.3370      4.9140       90       Resistor                                                                                                                     
+R14        4K7           BottomLayer RES_0805_(2012X06L)            30.3870      1.9050       180      Resistor                                                                                                                     
+R11        47K           BottomLayer RES_0805_(2012X06L)            29.3370      11.1370      90       Resistor                                                                                                                     
+R10        4K7           BottomLayer RES_0805_(2012X06L)            30.3870      8.1280       180      Resistor                                                                                                                     
+Q4         BC817         BottomLayer SOT23_N                        32.6390      4.9530       0        "NPN General purpose Transistor"                                                                                             
+Q3         BC817         BottomLayer SOT23_N                        32.6390      11.0490      0        "NPN General purpose Transistor"                                                                                             
+J3         3x2           TopLayer    HDR_THT_3x2M_2.54mm_RA         49.7210      4.8260       90       "Header, dual row, 6 pin"                                                                                                    
+L2         ECMF02-2AMX6  TopLayer    SON50P150X170X55-6N            11.8110      9.1440       0        "Common Mode Filter with ESD Protection for USB 2.0 and MIPI D-PHY/MDDI Interface"                                           
+J2         4b            TopLayer    HDR_THT_4M_2.54mm              14.9860      1.7526       180      "Header, single row, 4 pin"                                                                                                  
+C7         100n          TopLayer    CAP_0805/2012                  23.3680      17.1196      90       "Bipolar ceramic capacitor SMD"                                                                                              
+D1         SM712         BottomLayer SOT23_M                        47.5742      13.5382      180      "TVS, ESD PROTECT, 2CH, 400W/17A PP, 7.5VBR, ±8KV ESDmin"                                                                    
+U3         STM32G431C8T6 TopLayer    LQFP48_N                       19.9390      8.6360       180      "32-Bit mircrocontroller"                                                                                                    
+U2         3.3V          TopLayer    SOT95P280X130-5N               14.9860      17.1450      270      "Fixed LDO Voltage Regulator 3.3V 300mA SOT-23-5"                                                                            
+U1         TJA1051T-3    TopLayer    SO8_narrow_M                   36.9570      10.5410      0        "High-Speed CAN Transceiver That Provides an Interface Between a CAN Protocol Controller and The Physical Two-Wire CAN Bus." 
+R13        1M            TopLayer    RES_0805_(2012X06L)            27.4320      15.8410      90       Resistor                                                                                                                     
+R12        100K          TopLayer    RES_0805_(2012X06L)            28.4820      18.7960      180      Resistor                                                                                                                     
+R9         10K           BottomLayer RES_0805_(2012X06L)            23.6220      2.1200       90       Resistor                                                                                                                     
+R8         330R          TopLayer    RES_0805_(2012X06L)            3.1868       0.9906       0        Resistor                                                                                                                     
+R7         330R          BottomLayer RES_0805_(2012X06L)            34.7590      1.9050       0        Resistor                                                                                                                     
+R6         330R          BottomLayer RES_0805_(2012X06L)            34.7590      8.1280       0        Resistor                                                                                                                     
+R5         4K7           BottomLayer RES_0805_(2012X06L)            2.7550       8.7300       0        Resistor                                                                                                                     
+R4         4K7           BottomLayer RES_0805_(2012X06L)            2.7550       11.3970      0        Resistor                                                                                                                     
+R3         120R          BottomLayer RES_0805_(2012X06L)            53.4670      11.6450      90       Resistor                                                                                                                     
+R2         22R           TopLayer    RES_0805_(2012X06L)            27.4066      3.9760       270      Resistor                                                                                                                     
+R1         22R           TopLayer    RES_0805_(2012X06L)            29.4386      3.9760       270      Resistor                                                                                                                     
+Q2         NPN           TopLayer    SOT23_N                        30.3530      15.8750      90       "NPN General purpose Transistor"                                                                                             
+Q1         P-Channel     TopLayer    SOT23_N                        34.4170      17.6530      0        "P-Channel MOSFET"                                                                                                           
+P1         2'Pin         TopLayer    Phoenix_2PIN_RA_P5.08mm        50.9270      14.4780      90       "Power Connector 2'Pin"                                                                                                      
+L1         Value?        TopLayer    FIL_DLW31SN900SQ2L_Extended    44.5770      12.0427      180      "2 Line Common Mode Choke Surface Mount 90 Ohms @ 100 MHz 370mA DCR 300mOhm"                                                 
+J1         16P           TopLayer    USBC_SMD_16_USB4110_-_Extended 5.3959       9.9260       90       "USB C Female Connector"                                                                                                     
+F3         250m          TopLayer    1206_F                         4.5720       17.9070      0        "Short circiut  protection"                                                                                                  
+F2         200m          TopLayer    1206_F                         44.5770      6.4770       0        "SMD Resettable Fuses"                                                                                                       
+F1         200m          TopLayer    1206_F                         44.8310      17.9070      0        "SMD Resettable Fuses"                                                                                                       
+D4         "Red, 3'mm"   TopLayer    LED-3mm(RED)                   39.8780      2.0320       180      LED                                                                                                                          
+D3         "Green, 3'mm" TopLayer    led-3mm                        6.9850       1.9050       180      LED                                                                                                                          
+D2         Yellow        TopLayer    LED-3mm_Yellow                 39.7510      5.9690       180      LED                                                                                                                          
+C16        47p           TopLayer    CAP_0805/2012                  44.5770      15.4686      0        "Bipolar ceramic capacitor SMD"                                                                                              
+C17        47p           TopLayer    CAP_0805/2012                  44.4246      8.8900       0        "Bipolar ceramic capacitor SMD"                                                                                              
+C15        100n          BottomLayer CAP_0805/2012                  21.5900      2.1336       90       "Bipolar ceramic capacitor SMD"                                                                                              
+C14        100n          TopLayer    CAP_0805/2012                  34.4424      14.8590      180      "Bipolar ceramic capacitor SMD"                                                                                              
+C13        10u           TopLayer    CAP_0805/2012                  30.3530      12.9540      0        "Bipolar ceramic capacitor SMD"                                                                                              
+C6         100n          TopLayer    CAP_0805/2012                  21.3360      17.1196      90       "Bipolar ceramic capacitor SMD"                                                                                              
+C5         10u           TopLayer    SMT_C_Tantalum_B               18.5420      17.0180      90       "Tantalum Capacitor,TAJ Series-SMD"                                                                                          
+C4         100n          TopLayer    CAP_0805/2012                  12.0650      17.1216      270      "Bipolar ceramic capacitor SMD"                                                                                              
+C3         4u7           TopLayer    SMT_C_Tantalum_A               9.7790       16.5696      270      "Tantalum Capacitor,TAJ Series-SMD"                                                                                          
+C2         100n          TopLayer    CAP_0805/2012                  31.3690      8.6106       90       "Bipolar ceramic capacitor SMD"                                                                                              
+C1         10u           TopLayer    SMT_C_Tantalum_A               29.0830      8.5090       90       "Tantalum Capacitor,TAJ Series-SMD"                                                                                          

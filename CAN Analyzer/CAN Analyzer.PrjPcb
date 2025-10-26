@@ -100,8 +100,125 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document4]
+DocumentPath=PCB.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XIZGSAPO
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for CAN Analyzer\Bill of Materials\Bill of Materials-CAN Analyzer.pdf
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for CAN Analyzer\Report Project Hierarchy\CAN Analyzer.REP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for CAN Analyzer\Report Single Pin Nets\CAN Analyzer.REP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for CAN Analyzer\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for CAN Analyzer\NC Drill Files\PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for CAN Analyzer\Gerber Files\PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for CAN Analyzer\NC Drill Files\PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for CAN Analyzer\PCB_WithOUT_3D\PCB.PcbDoc
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for CAN Analyzer\Gerber Files\PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for CAN Analyzer\Export STEP\PCB.step
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for CAN Analyzer\NC Drill Files\PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for CAN Analyzer\Gerber Files\PCB_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for CAN Analyzer\Gerber Files\PCB_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for CAN Analyzer\Gerber Files\PCB_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for CAN Analyzer\Gerber Files\PCB_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for CAN Analyzer\Gerber Files\PCB_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for CAN Analyzer\Gerber Files\PCB_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for CAN Analyzer\Gerber Files\PCB_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for CAN Analyzer\Gerber Files\PCB_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for CAN Analyzer\Gerber Files\PCB_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for CAN Analyzer\Gerber Files\PCB_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for CAN Analyzer\Gerber Files\PCB_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for CAN Analyzer\Gerber Files\PCB_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for CAN Analyzer\Generates pick and place files\Pick Place for PCB.csv
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for CAN Analyzer\Generates pick and place files\Pick Place for PCB.txt
 DItemRevisionGUID=
 
 [Parameter1]
