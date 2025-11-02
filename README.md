@@ -60,7 +60,6 @@ This design is **based on the open-source Canable 2.0 project**, available at [h
 </table>
 
 ##  Key Features
-
 * **Dual CAN Protocol Support**
   Fully compatible with **CAN 2.0A/B** and **CAN FD** standards.
 
@@ -87,6 +86,10 @@ This design is **based on the open-source Canable 2.0 project**, available at [h
 * Testing and validating CAN-based ECUs and sensors
 * Educational and research projects in automotive communication
 
+## Firmware Recommendation
+For best performance, it’s recommended to flash the **`CANable_2.0_SLCAN_FD_7-7-22.bin`** firmware onto the board.
+You can program it using an external **programmer** (e.g., ST-Link) or update it directly through the **DFU bootloader** using standard DFU utilities or GUI tools.
+This firmware provides full support for **CAN FD** and ensures stable communication with **SavvyCAN**, **Cangaroo**, and other compatible CAN analysis software.
 
 ## Technical Highlights
 | Feature             | Description                               |
