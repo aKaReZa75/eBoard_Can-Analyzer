@@ -1,4 +1,11 @@
-# eBoard 
+# eBoard Can BUS Analyzer
+
+This project is a **custom STM32-based CAN analyzer** designed to capture, monitor, and analyze automotive **CAN** traffic using **SavvyCAN** or any other compatible PC software.
+It supports both **Classical CAN (2.0A/B)** and **CAN FD**, making it a flexible and powerful tool for vehicle diagnostics, reverse engineering, and data logging applications.
+
+> [!NOTE]
+This design is **based on the open-source Canable 2.0 project**, available at [https://canable.io/](https://canable.io/)
+
 
 ![canAnalzyer](Images/canAnalzyer.png)
 
@@ -52,6 +59,51 @@
   </tr>  
 </table>
 
+##  Key Features
+
+* ** Dual CAN Protocol Support**
+  Fully compatible with **CAN 2.0A/B** and **CAN FD** standards.
+
+* ** USB Interface with DFU Support**
+  Built-in **DFU (Device Firmware Upgrade)** mode allows you to easily update firmware via USB — no external programmer needed.
+
+* ** Hardware Termination Control**
+  Includes a dedicated **jumper** to enable or disable the **120 Ω termination resistor**, allowing flexible connection to different CAN networks.
+
+* ** Direct CAN TX/RX Monitoring Pins**
+  The **TX** and **RX** lines of the CAN transceiver are **broken out** for use with a **logic analyzer**, enabling low-level signal observation and debugging.
+
+* ** Robust EMI Protection**
+  The board integrates **EMI filters**, **common-mode chokes**, and **TVS diodes** on both the **USB** and **CAN** interfaces — ensuring reliable operation in noisy automotive environments.
+
+* ** Software Compatibility**
+  Fully supported by **SavvyCAN**, **candleLight**, and any **SocketCAN-compatible** toolset on Windows, Linux, or macOS.
+
+
+## Typical Use Cases
+* Sniffing and analyzing automotive CAN frames
+* Reverse-engineering vehicle signals (speed, RPM, etc.)
+* Logging CAN data for diagnostics or visualization
+* Testing and validating CAN-based ECUs and sensors
+* Educational and research projects in automotive communication
+
+
+## Technical Highlights
+| Feature             | Description                               |
+| ------------------- | ----------------------------------------- |
+| MCU                 | STM32G431C8T6                             |
+| CAN Support         | CAN 2.0A/B and CAN FD                     |
+| USB Mode            | Full-Speed USB 2.0                        |
+| Firmware Update     | DFU mode over USB                         |
+| Software Support    | Savvycan/Cangaroo                         |
+| Termination         | Selectable 120 Ω via jumper               |
+| Protection          | EMI filter, TVS diodes, common-mode choke |
+| Monitoring          | TX/RX breakout for logic analyzer         |
+| Compatible Software | SavvyCAN, SocketCAN, BusMaster, etc.      |
+| PCB Design Software | Altium  V24.2.2                           |
+| PCB Layers          | 2-Layer FR4                               |
+
+
 # 🔗 Resources
   Here you'll find a collection of useful links and videos related to the topic of AVR microcontrollers.  
   
@@ -67,6 +119,21 @@
   ---  
   This repository is dedicated to **learning PCB design and electronics from scratch**. It covers everything from circuit theory to practical PCB layout techniques, including routing strategies, best practices, and component placement. Whether you're a beginner or an experienced designer, this resource will help you **improve your PCB design skills and create professional-quality boards**.
 
+- [Shopping Link](./ShoppingLink.md)  
+  ---
+  This document provides links to trusted suppliers where you can purchase all the essential components for this project, ensuring quality and reliability.
+
+- [SavvyCAN](https://github.com/collin80/SavvyCAN)
+  ---
+  A powerful **cross-platform CAN bus capture and reverse engineering tool** built with **Qt/C++**.
+  SavvyCAN supports a wide range of CAN interfaces (SocketCAN, PeakCAN, Vector, J2534, etc.) and allows simultaneous connection to multiple buses.
+  It includes features for **graphing, decoding with DBC files, UDS scanning**, and analyzing complex CAN traffic efficiently.
+
+- [Cangaroo](https://github.com/normaldotcom/cangaroo)
+  ---
+  An open-source **CAN bus analyzer** supporting **transmit/receive of standard and FD frames**, as well as **DBC decoding** for incoming data.
+  It works seamlessly on **Windows** and **Linux** with any **CANable** device running **Candlelight** or **SLCAN** firmware.
+  Cangaroo provides advanced features like DBC decoding, periodic frame transmission, and multi-interface auto-detection on startup.
 
 ## Project Videos
 
