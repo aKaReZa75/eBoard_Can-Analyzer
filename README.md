@@ -61,22 +61,22 @@ This design is **based on the open-source Canable 2.0 project**, available at [h
 
 ##  Key Features
 
-* ** Dual CAN Protocol Support**
+* **Dual CAN Protocol Support**
   Fully compatible with **CAN 2.0A/B** and **CAN FD** standards.
 
-* ** USB Interface with DFU Support**
+* **USB Interface with DFU Support**
   Built-in **DFU (Device Firmware Upgrade)** mode allows you to easily update firmware via USB — no external programmer needed.
 
-* ** Hardware Termination Control**
+* **Hardware Termination Control**
   Includes a dedicated **jumper** to enable or disable the **120 Ω termination resistor**, allowing flexible connection to different CAN networks.
 
-* ** Direct CAN TX/RX Monitoring Pins**
+* **Direct CAN TX/RX Monitoring Pins**
   The **TX** and **RX** lines of the CAN transceiver are **broken out** for use with a **logic analyzer**, enabling low-level signal observation and debugging.
 
-* ** Robust EMI Protection**
+* **Robust EMI Protection**
   The board integrates **EMI filters**, **common-mode chokes**, and **TVS diodes** on both the **USB** and **CAN** interfaces — ensuring reliable operation in noisy automotive environments.
 
-* ** Software Compatibility**
+* **Software Compatibility**
   Fully supported by **SavvyCAN**, **candleLight**, and any **SocketCAN-compatible** toolset on Windows, Linux, or macOS.
 
 
