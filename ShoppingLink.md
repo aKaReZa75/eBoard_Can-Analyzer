@@ -1,5 +1,5 @@
 # 📦 Components Purchase Links
-This section provides a comprehensive list of components required for the "Relay Control with SMS using an AVR microcontroller" project.
+This section provides a comprehensive list of components required for the "CAN BUS Analyzer" project.
 Each item includes direct purchase links from reliable Iranian electronics suppliers, with recommended quantities for both essential needs and future prototyping.
 
 ## Capacitor
