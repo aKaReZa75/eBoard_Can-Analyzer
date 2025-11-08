@@ -1,6 +1,6 @@
 # eBoard Can BUS Analyzer
 
-This project is a **custom STM32-based CAN analyzer** designed to capture, monitor, and analyze automotive **CAN** traffic using **SavvyCAN** or any other compatible PC software.
+This project is a **custom STM32-based CAN analyzer** designed to capture, monitor, and analyze **CAN BUS** traffic using **SavvyCAN** or any other compatible PC software.
 It supports both **Classical CAN (2.0A/B)** and **CAN FD**, making it a flexible and powerful tool for vehicle diagnostics, reverse engineering, and data logging applications.
 
 > [!NOTE]
@@ -108,7 +108,7 @@ This firmware provides full support for **CAN FD** and ensures stable communicat
 
 
 # 🔗 Resources
-  Here you'll find a collection of useful links and videos related to the topic of AVR microcontrollers.  
+  Here you'll find a collection of useful links and videos related to this topic.  
   
 > [!TIP]
 > The resources are detailed in the sections below.  
