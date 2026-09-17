@@ -163,7 +163,9 @@ CAN BUS Analyzer
     </td>
     <td width="360" valign="top">
       <a href="https://youtu.be/rj74_Sh1n9M">
-        https://img.youtube.com/vi/rj74_Sh1n9M/maxresdefault.jpg
+        <img src="https://img.youtube.com/vi/rj74_Sh1n9M/maxresdefault.jpg"
+       width="360"
+       alt="aKaReZa 43 – PCB, USB to TTL Thumbnail"/>
       </a>
     </td>
   </tr>
