@@ -161,7 +161,7 @@ CAN BUS Analyzer
         Learn how to design, assemble, and use a complete <strong>CAN Analyzer</strong> from scratch. This episode covers the hardware architecture, schematic review, PCB assembly, firmware programming, device pinout, and integration with tools like <strong>SavvyCAN</strong> and <strong>Congroo</strong> for CAN bus monitoring and analysis. A practical introduction for anyone interested in CAN network development, debugging, and diagnostics.
       </p>
     </td>
-    <td width="360" valign="top">
+    <td width="360" valign="middle">
       <a href="https://youtu.be/rj74_Sh1n9M">
         <img src="https://img.youtube.com/vi/rj74_Sh1n9M/maxresdefault.jpg"
        width="360"
